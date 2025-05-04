@@ -11,7 +11,7 @@ _20 TILs and counting..._
 
 ### 5 most recent TILs
 
-- [Git 초기 설정](Git/Git Init Setting.md) - Sun May 4 21:54:17 2025 +0900
+- [Git 초기 설정](Git/Git_Init_Setting.md) - Sun May 4 23:00:59 2025 +0900
 - [자바 메모리 구조](JAVA/JVM_Memory_Area.md) - Sun May 4 23:00:05 2025 +0900
 - [](JAVA/Java_GarbageCollection.md) - Sun May 4 22:10:19 2025 +0900
 - [Spring Boot Actuator 설정 가이드](SpringMonitoring/01._Spring_Boot_Actuator_Guide.md) - Sun May 4 23:00:05 2025 +0900
@@ -27,7 +27,7 @@ _20 TILs and counting..._
 - [Tomcat](#Tomcat)
 
 ### [Git](#Git)
-- [Git 초기 설정](Git/Git Init Setting.md)
+- [Git 초기 설정](Git/Git_Init_Setting.md)
 
 ### [JAVA](#JAVA)
 - [자바 메모리 구조](JAVA/JVM_Memory_Area.md)
