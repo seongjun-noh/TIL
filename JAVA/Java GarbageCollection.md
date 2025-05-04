@@ -1,5 +1,5 @@
 
-# Java 가비지컬렉션 (Garbage Collection)
+# Java 가비지컬렉션 (GarbageCollection)
 ## Garbage Collection(GC)이란?
 
 GC는 JVM의 **힙(Heap)** 영역에서 더 이상 사용되지 않는 객체를 찾아 자동으로 메모리를 회수하는 기능입니다. 개발자는 C/C++처럼 직접 `malloc`·`free`를 호출하지 않아도 되므로, 비즈니스 로직에 집중할 수 있습니다.
@@ -38,13 +38,12 @@ GC는 특정객체가 Garbage인지 아닌지 판단하기 위해 도달성, 도
 
 ## 언제, 어떻게 청소할까?
 
-|   |   |   |   |
-|---|---|---|---|
-|알고리즘|영역|실행 조건|특징|
-|**Copying**|Young|Eden 가득 참|단편화 없음, 빠름|
-|**Mark‑Sweep‑Compact**|Old|Old 가득 참|단편화 해소, 느림|
-|**Mixed (G1)**|Young+일부 Old|Young GC 후|Full GC 대체|
-|**Concurrent (ZGC/Shenandoah)**|전체 힙|힙 압박 심할 때|
+| 알고리즘                            | 영역           | 실행 조건      | 특징         |
+| ------------------------------- | ------------ | ---------- | ---------- |
+| **Copying**                     | Young        | Eden 가득 참  | 단편화 없음, 빠름 |
+| **Mark‑Sweep‑Compact**          | Old          | Old 가득 참   | 단편화 해소, 느림 |
+| **Mixed (G1)**                  | Young+일부 Old | Young GC 후 | Full GC 대체 |
+| **Concurrent (ZGC/Shenandoah)** | 전체 힙         | 힙 압박 심할 때  |            |
 
 ## 현대 GC의 변화
 

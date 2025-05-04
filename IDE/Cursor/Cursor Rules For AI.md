@@ -1,15 +1,3 @@
----
-title: Cursor AI 개발 가이드
-categories: IDE
-comments: true
-tags:
-    - "#Cursor"
-    - "#AI"
-    - "#Development"
-    - "#Java"
-    - "#SpringBoot"
----
-
 # Cursor AI 개발 가이드
 
 ## AI 페르소나

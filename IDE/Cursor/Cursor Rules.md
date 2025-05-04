@@ -1,12 +1,3 @@
----
-title: Cursor IDE 참고 자료
-categories: IDE
-comments: true
-tags:
-    - "#Cursor"
-    - "#IDE"
-    - "#Development"
----
 
 ## 공식 문서 및 참고 자료
 

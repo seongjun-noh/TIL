@@ -1,12 +1,3 @@
----
-title: Git 초기 설정 가이드
-categories: Git
-comments: true
-tags:
-    - "#Git"
-    - "#Configuration"
-    - "#Development"
----
 # Git 초기 설정
 
 ## 기본 설정
