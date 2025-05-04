@@ -1,4 +1,3 @@
-
 # Java 가비지컬렉션 (GarbageCollection)
 ## Garbage Collection(GC)이란?
 
