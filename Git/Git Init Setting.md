@@ -7,6 +7,7 @@ tags:
     - "#Configuration"
     - "#Development"
 ---
+# Git 초기 설정
 
 ## 기본 설정
 
