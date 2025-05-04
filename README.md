@@ -30,5 +30,5 @@ _4 TILs and counting..._
 ### [Tomcat](#Tomcat)
 - [---](Tomcat/Tomcat 버전 정보 노출 방지.md)
 
-[1]: https://github.com/seongjun-noh/til
+[1]: https://github.com/seongjun-noh/TIL
 
