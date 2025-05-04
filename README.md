@@ -13,7 +13,7 @@ _20 TILs and counting..._
 
 - [Git 초기 설정](Git/Git_Init_Setting.md) - Sun May 4 23:00:59 2025 +0900
 - [자바 메모리 구조](JAVA/JVM_Memory_Area.md) - Sun May 4 23:00:05 2025 +0900
-- [](JAVA/Java_GarbageCollection.md) - Sun May 4 22:10:19 2025 +0900
+- [Java 가비지컬렉션 (GarbageCollection)](JAVA/Java_GarbageCollection.md) - Sun May 4 22:10:19 2025 +0900
 - [Spring Boot Actuator 설정 가이드](SpringMonitoring/01._Spring_Boot_Actuator_Guide.md) - Sun May 4 23:00:05 2025 +0900
 - [로깅 모니터링 가이드](SpringMonitoring/02._Logging_Monitoring_Guide.md) - Sun May 4 23:00:05 2025 +0900
 
@@ -31,7 +31,7 @@ _20 TILs and counting..._
 
 ### [JAVA](#JAVA)
 - [자바 메모리 구조](JAVA/JVM_Memory_Area.md)
-- [](JAVA/Java_GarbageCollection.md)
+- [Java 가비지컬렉션 (GarbageCollection)](JAVA/Java_GarbageCollection.md)
 
 ### [SpringMonitoring](#SpringMonitoring)
 - [Spring Boot Actuator 설정 가이드](SpringMonitoring/01._Spring_Boot_Actuator_Guide.md)
