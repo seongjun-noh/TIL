@@ -1,1 +1,0 @@
-`$MODULE_WORKING_DIR$`

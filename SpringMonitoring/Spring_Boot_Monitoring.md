@@ -1,14 +1,3 @@
----
-title: Spring Boot Monitoring Overview
-categories: Spring
-comments: true
-tags:
-    - "#spring"
-    - "#monitoring"
-    - "#devops"
-    - "#overview"
----
-
 # 스프링 부트 모니터링 가이드
 
 이 가이드는 Spring Boot 애플리케이션의 모니터링 설정과 운영에 대한 종합적인 안내서입니다.
