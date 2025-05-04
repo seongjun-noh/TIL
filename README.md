@@ -56,7 +56,7 @@ _20 TILs and counting..._
 - [통합 테스트 가이드](SpringTest/05._Integration_Testing_Guide.md)
 
 ### [Tomcat](#Tomcat)
-- [---](Tomcat/Tomcat_버전_정보_노출_방지.md)
+- [Tomcat 버전 정보 노출 방지](Tomcat/Tomcat_버전_정보_노출_방지.md)
 
 [1]: https://github.com/seongjun-noh/TIL
 [2]: https://seongjun-noh.github.io/
