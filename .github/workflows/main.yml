@@ -1,7 +1,7 @@
 name: Build README
 
 permissions:
-  contents: write 
+  contents: write
   
 on:
   push:
@@ -19,19 +19,11 @@ jobs:
         # necessary for github-action-til-autoformat-readme
         fetch-depth: 0
     - name: Autoformat README
-      uses: cflynn07/github-action-til-autoformat-readme@1.2.0
+      uses: cflynn07/github-action-til-autoformat-readme@1.1.0
       with:
-        #description: |
-          #A collection of concrete writeups of small things I learn daily while working
-          #and researching. My goal is to work in public. I was inspired to start this
-          #repository after reading Simon Wilson's [hacker new post][1], and he was
-          #apparently inspired by Josh Branchaud's [TIL collection][2].
         description: |
-          매일 배우는 작은 기술 인사이트와 코드 패턴을  
-          짧고 핵심적으로 기록한 “Today I Learned (TIL)” 모음집입니다.
+          🏄‍♂️ 오늘 배운 것을 정리합니다.  
         footer: |
-          이 README의 목차와 최신 항목은  
-          [github-action-til-autoformat-readme] 액션으로 자동 관리됩니다.  
-          © 2025 SEONGJUN_NOH
-        list_most_recent: 5 # optional, lists most recent TILS below description
-        date_format: "2006-01-02" # optional, must align to https://golang.org/pkg/time/#Time.Format
+          [1]: https://github.com/seongjun-noh/til
+        list_most_recent: 3 # optional, lists most recent TILS below description
+        date_format: "2020 Jan 15:04" # optional, must align to https://golang.org/pkg/time/#Time.Format
