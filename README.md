@@ -13,7 +13,7 @@ _4 TILs and counting..._
 
 - [---](Git/Git Init Setting.md) - Sun May 4 21:54:17 2025 +0900
 - [자바 메모리 구조](JAVA/JVM Memory Area.md) - Sun May 4 21:33:58 2025 +0900
-- [# Garbage Collection(GC)이란?](JAVA/Java GarbageCollection.md) - Sun May 4 21:33:58 2025 +0900
+- [](JAVA/Java GarbageCollection.md) - Sun May 4 21:33:58 2025 +0900
 - [---](Tomcat/Tomcat 버전 정보 노출 방지.md) - Sun May 4 21:33:58 2025 +0900
 
 ### Categories
@@ -27,7 +27,7 @@ _4 TILs and counting..._
 
 ### [JAVA](#JAVA)
 - [자바 메모리 구조](JAVA/JVM Memory Area.md)
-- [# Garbage Collection(GC)이란?](JAVA/Java GarbageCollection.md)
+- [](JAVA/Java GarbageCollection.md)
 
 ### [Tomcat](#Tomcat)
 - [---](Tomcat/Tomcat 버전 정보 노출 방지.md)
