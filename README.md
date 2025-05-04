@@ -11,9 +11,9 @@ _4 TILs and counting..._
 
 ### 4 most recent TILs
 
-- [---](Git/Git 초기 설정.md) - Sun May 4 21:33:58 2025 +0900
-- [Java JVM의 메모리 영역은 크게 Method, Stack, Heap 세가지 영역으로 나뉘며, 각 영역에는 서로 다른 종류의 데이터가 저장되고 생명주기가 관리됩니다.](JAVA/JVM Memory Area.md) - Sun May 4 21:33:58 2025 +0900
-- [Garbage Collection(GC)이란?](JAVA/Java GarbageCollection.md) - Sun May 4 21:33:58 2025 +0900
+- [---](Git/Git Init Setting.md) - Sun May 4 21:54:17 2025 +0900
+- [자바 메모리 구조](JAVA/JVM Memory Area.md) - Sun May 4 21:33:58 2025 +0900
+- [# Garbage Collection(GC)이란?](JAVA/Java GarbageCollection.md) - Sun May 4 21:33:58 2025 +0900
 - [---](Tomcat/Tomcat 버전 정보 노출 방지.md) - Sun May 4 21:33:58 2025 +0900
 
 ### Categories
@@ -23,11 +23,11 @@ _4 TILs and counting..._
 - [Tomcat](#Tomcat)
 
 ### [Git](#Git)
-- [---](Git/Git 초기 설정.md)
+- [---](Git/Git Init Setting.md)
 
 ### [JAVA](#JAVA)
-- [Java JVM의 메모리 영역은 크게 Method, Stack, Heap 세가지 영역으로 나뉘며, 각 영역에는 서로 다른 종류의 데이터가 저장되고 생명주기가 관리됩니다.](JAVA/JVM Memory Area.md)
-- [Garbage Collection(GC)이란?](JAVA/Java GarbageCollection.md)
+- [자바 메모리 구조](JAVA/JVM Memory Area.md)
+- [# Garbage Collection(GC)이란?](JAVA/Java GarbageCollection.md)
 
 ### [Tomcat](#Tomcat)
 - [---](Tomcat/Tomcat 버전 정보 노출 방지.md)
