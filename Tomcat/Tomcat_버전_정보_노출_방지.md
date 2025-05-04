@@ -1,13 +1,3 @@
----
-title: Tomcat 버전 정보 노출 방지 설정 가이드
-categories: Server
-comments: true
-tags:
-    - "#Tomcat"
-    - "#Security"
-    - "#ServerConfig"
----
-
 # Tomcat 버전 정보 노출 방지
 
 ## 1. 응답 헤더 버전 노출 제거
