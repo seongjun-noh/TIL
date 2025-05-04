@@ -1,3 +1,5 @@
+
+# Java 가비지컬렉션 (Garbage Collection)
 ## Garbage Collection(GC)이란?
 
 GC는 JVM의 **힙(Heap)** 영역에서 더 이상 사용되지 않는 객체를 찾아 자동으로 메모리를 회수하는 기능입니다. 개발자는 C/C++처럼 직접 `malloc`·`free`를 호출하지 않아도 되므로, 비즈니스 로직에 집중할 수 있습니다.
